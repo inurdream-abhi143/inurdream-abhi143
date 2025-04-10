@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+.counter-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 450px;
+  border: 2px solid #000;
+  background-color: rgb(85, 85, 85);
+}
+.text {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0 20px;
+  text-align: center;
+  color: #f0f0f0;
+}
+
+button {
+  width: 100px;
+  height: 45px;
+  margin: 5px 15px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: grey;
+  gap: 10px;
+}
+button:hover {
+  background-color: rgb(105, 105, 105);
+  color: black;
+  transition: all 0.3s ease-in-out;
+}
