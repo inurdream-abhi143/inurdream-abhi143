@@ -16,11 +16,7 @@ const RefHook = () => {
     <>
       {/* add ref to input filed so that useref we use  */}
 
-      <input
-        ref={inputRef}
-        type="text"
-        value="Click the button to changeBgColor"
-      ></input>
+      <input ref={inputRef} type="text" placeholder="Enter your name"></input>
       <button onClick={changeBgColor}>Submit</button>
     </>
   );
