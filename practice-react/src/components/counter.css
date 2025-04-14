@@ -38,3 +38,16 @@ button:hover {
   color: black;
   transition: all 0.3s ease-in-out;
 }
+
+input {
+  width: 300px;
+  height: 45px;
+  margin: 5px 15px;
+  border: none;
+  font-size: 20px;
+  color: black;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: whitesmoke;
+  gap: 10px;
+}
