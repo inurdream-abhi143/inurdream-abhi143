@@ -9,6 +9,6 @@ createRoot(document.getElementById("root")).render(
   <AppProvider>
     <App />
     {/* counter file  */}
-    {/* <Counter /> */}
+    <Counter />
   </AppProvider>
 );
