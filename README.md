@@ -21,8 +21,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and const
 ---
 
 ## 📈 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&theme=radical)
-
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&theme=radical&cache_seconds=86400)
 ---
 
 ## 📫 Let's Connect!
