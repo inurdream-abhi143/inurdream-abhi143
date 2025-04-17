@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and const
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Abhishek on LinkedIn](https://www.linkedin.com/in/inurdream-abhi143)
+- **LinkedIn**: [Abhishek on LinkedIn](https://www.linkedin.com/in/abhishek-dhiman-229195247)
 
 ---
 
