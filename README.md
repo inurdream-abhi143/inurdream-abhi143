@@ -1,32 +1,32 @@
-# Hi there, I'm Abhishek! 👋
+# Hi, I'm Abhishek
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and constantly learning new things in the world of development. Here's a little about me:
-
----
-
-## 🚀 About Me
-- 🌱 I’m currently learning **Web Development**
-- 💼 I’m working to build projects that solve real-world problems and enhance my skill set.
-- 🤝 I love collaborating on exciting projects and contributing to open-source communities.
-- 💬 Ask me about **React**, **JavaScript**, or anything tech-related—I'd be happy to help!
+Welcome to my GitHub profile. I am passionate about technology and committed to continuous learning in web development.
 
 ---
 
-## 🔧 Technologies & Tools
-- **Languages**: Html, JavaScript, Css
-- **Frameworks**: React, Bootstrap
-- **Tools**: Git,
-- **Databases**: 
+## About Me
+- Currently learning **Web Development**
+- Building projects to improve my skills and solve practical problems
+- Interested in collaborating on meaningful projects
+- Feel free to ask me about **React**, **JavaScript**, or web technologies
 
 ---
 
-
-## 📫 Let's Connect!
-- **LinkedIn**: [Abhishek on LinkedIn](https://www.linkedin.com/in/abhishek-dhiman-229195247)
+## Technologies & Tools
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks:** React, Bootstrap  
+- **Tools:** Git  
+- **Databases:** (To be updated)
 
 ---
 
-### 🌟 Thanks for visiting my profile! Let's build something amazing together! 🌟
+## Contact
+- **LinkedIn:** [Abhishek Dhiman](https://www.linkedin.com/in/abhishek-dhiman-229195247)
 
-# Author -- Abhishek Dhiman
+---
 
+Thank you for visiting my profile.
+
+---
+
+*Author: Abhishek Dhiman*
