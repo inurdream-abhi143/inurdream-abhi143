@@ -1,6 +1,5 @@
-<!-- Simple static banner (customize or replace the URL with your own image if you want) -->
 <p align="center">
-  <img src="https://github.com/inurdream-abhi143/inurdream-abhi143/assets/your-image.png" alt="Abhi's Banner" width="100%" />
+  <img src="https://i.imgur.com/6b6psnA.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Abhi 👋</h1>
@@ -77,7 +76,6 @@
 ---
 
 <!--
-- Replace the banner image URL with your own if you want a more personal touch.
+- You can replace the banner image URL with a custom one any time.
 - Update your email, LinkedIn, and Twitter links.
-- For custom banners, you can use Canva, Figma, or any image you like!
 -->
