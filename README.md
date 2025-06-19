@@ -54,23 +54,14 @@
 
 ---
 
-## 🐍 Contribution Snake (FREE + COOL)
 
-<p align="center">
-  <img src="https://github.com/inurdream-abhi143/inurdream-abhi143/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-> To enable this:  
-> 1. Fork this repo: [Platane/snk](https://github.com/Platane/snk)  
-> 2. Follow their setup to generate the snake SVG using GitHub Actions.  
-> 3. Push to a branch named `output` in your own repo.
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="dhimanabhishek2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="www.linkedin.com/in/abhishek-dhiman-229195247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+ 
 </p>
