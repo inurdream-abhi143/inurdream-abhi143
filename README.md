@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhi+%F0%9F%91%8B;Frontend+Dev+%7C+React+Enthusiast+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Always+Learning+%F0%9F%92%AB;Let%27s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </p>
 
-<!-- Profile Picture (Optional, use your own image link or GitHub avatar) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/155280430?v=4" width="120" style="border-radius:50%;" alt="Abhi's Avatar"/>
-</p>
 
 ---
 
