@@ -1,67 +1,80 @@
-<!-- Typing animation using a FREE SVG generator -->
+<!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Abhi+%F0%9F%91%8B;Frontend+Dev+%7C+React+Enthusiast+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Always+Building+Cool+Stuff!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhi+%F0%9F%91%8B;Frontend+Dev+%7C+React+Enthusiast+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Always+Learning+%F0%9F%92%AB;Let%27s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </p>
 
-<!-- Waving hand GIF (FREE from GIPHY) -->
+<!-- Profile Picture (Optional, use your own image link or GitHub avatar) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="hi" />
+  <img src="https://avatars.githubusercontent.com/u/155280430?v=4" width="120" style="border-radius:50%;" alt="Abhi's Avatar"/>
 </p>
+
+---
+
+<div align="center">
+
+<!-- Social Links -->
+<a href="mailto:dhimanabhishek2001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-dhiman-229195247" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🎨 I love crafting beautiful & responsive user interfaces.
+- 🎨 Passionate about crafting beautiful & responsive user interfaces.
 - 💻 Specialized in **JavaScript**, **React**, **HTML**, and **CSS**.
 - 🔧 Currently diving into **Node.js**, **Express**, and **Tailwind CSS**.
 - 🤝 Open to collaboration, projects, and memes.
 
 ---
 
-## 🛠️ Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-</div>
-
----
-
-## 🚧 Currently Leveling Up
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-</div>
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=inurdream-abhi143&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,materialui,git,nodejs,express,tailwind" alt="Tech Stack" />
 </p>
 
 ---
 
+## 🚀 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=inurdream-abhi143&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inurdream-abhi143&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌱 Currently Leveling Up
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
+<div align="center">
+  <a href="mailto:dhimanabhishek2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Me!-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-dhiman-229195247" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
+
+---
+
+<!-- Footer Animation (Optional) -->
 <p align="center">
-  <a href="dhimanabhishek2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="www.linkedin.com/in/abhishek-dhiman-229195247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
 </p>
