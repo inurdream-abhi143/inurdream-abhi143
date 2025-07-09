@@ -29,18 +29,16 @@
 
 ```javascript
 const abhishek = {
-  pronouns: "He/Him",
-  code: ["JavaScript", "HTML/CSS", "Python"],
-  frameworks: ["React", "Express", "Bootstrap"],
-  databases: ["MongoDB", "MySQL"],
-  tools: ["Git", "VS Code", "Postman", "Figma"],
+  code: ["JavaScript", "HTML/CSS", ],
+  frameworks: ["React", "Express", "Bootstrap", "NodeJS"],
+  databases: ["MongoDB", "MsSQL"],
+  tools: ["Git", "VS Code", "Postman", "Thunder Client"],
   passions: [
     "Teaching tech concepts",
     "Building accessible web apps",
     "Mentoring junior developers",
     "Open-source contributions"
   ],
-  funFact: "Can explain recursion using Russian nesting dolls"
 };
 ```
 
