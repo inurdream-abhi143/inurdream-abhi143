@@ -164,21 +164,6 @@ const abhishek = {
 
 </div>
 
----
-
-## 🎓 Education
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-MCA-7.13%20CGPA-blueviolet?style=for-the-badge"/>
-<br>
-<b>Central University of Himachal Pradesh (2022-2024)</b>
-
-<img src="https://img.shields.io/badge/-B.Sc.-7.54%20CGPA-blue?style=for-the-badge"/>
-<br>
-<b>Himachal Pradesh University (2019-2022)</b>
-
-</div>
 
 ---
 
