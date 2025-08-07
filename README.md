@@ -1,131 +1,116 @@
 <!-- Animated Typing SVG -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhi+%F0%9F%91%8B;Full+Stack+%7C+Frontend+Dev+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Always+Learning+%F0%9F%92%AB;Crafting+Code%2C+Creating+Magic+%E2%9C%A8" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;Professional+Full+Stack+%7C+Frontend+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Passionate+about+Building+Impactful+Products+%F0%9F%92%AB;Simplicity+in+Code%2C+Excellence+in+Delivery+%E2%9C%A8" 
     alt="Typing SVG"
-    title="Hey there! I'm Abhi 🚀"
+    title="Hey there! I'm Abhishek 🚀"
   />
 </p>
 
 <p align="center">
-  <em>Building digital experiences • Simplifying complex concepts • Fostering tech communities</em>
+  <em>Delivering robust, scalable web solutions • Empowering digital transformation</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="mailto:dhiman.abhishek2010@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhiman-abhishek2010">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/inurdream-abhi143">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const abhishek = {
-  code: ["JavaScript", "HTML/CSS", ],
-  frameworks: ["React", "Express", "Bootstrap", "NodeJS"],
+  name: "Abhishek Dhiman",
+  location: "Kangra, Himachal Pradesh, India",
+  role: "Full Stack Developer | MERN Stack Enthusiast",
+  code: ["JavaScript", "HTML5", "CSS3"],
+  frameworks: ["React", "Node.js", "Express", "Bootstrap"],
   databases: ["MongoDB", "MsSQL"],
-  tools: ["Git", "VS Code", "Postman", "Thunder Client"],
-  passions: [
-    "Teaching tech concepts",
-    "Building accessible web apps",
+  tools: ["Git", "VS Code", "Postman", "Thunder Client", "Figma", "Vite"],
+  interests: [
+    "Building scalable web apps",
     "Mentoring junior developers",
-    "Open-source contributions"
-  ],
+    "Open-source contributions",
+    "Tech community outreach"
+  ]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-<div align="center">
+### Kaspro Solutions Pvt. Ltd.
+**MERN Stack Developer (Trainee)** | Mar 2025 – Present  
+- Designed and developed RESTful APIs with JWT authentication & Context API.
+- Built scalable dashboards using React Hooks & Bootstrap.
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Frontend</b><br>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    </td>
-    <td align="center">
-      <b>Backend</b><br>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    </td>
-    <td align="center">
-      <b>Tools</b><br>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+### Neo-Crew Technology
+**Frontend Intern** | Jan 2025 – Mar 2025  
+- Engineered 10+ reusable React components and improved accessibility by **35%**.
+- Developed responsive UIs using HTML, CSS, JS, and optimized React-based workflows.
 
-</div>
+### NETCODER Technology
+**Intern (Frontend Developer)** | Jan 2024 – Feb 2024  
+- Built landing pages with responsive layouts and implemented best practices in HTML/CSS & Bootstrap.
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education
 
-<div align="center">
+- **Master of Computer Applications**  
+  Central University of Himachal Pradesh | 2022 – 2024
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Tech Stack</th>
-    <th>Description</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td><b>E-Commerce Platform</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Context%20API-764ABC?style=flat-square&logo=react&logoColor=white"/>
-    </td>
-    <td>Full-featured online store with admin dashboard</td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-FF7139?style=flat-square&logo=vercel&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Wallet Watch</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/-useReducer-764ABC?style=flat-square&logo=react&logoColor=white"/>
-    </td>
-    <td>Personal finance tracker with analytics</td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cafe Website</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML-E44D26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-    </td>
-    <td>Responsive website for local business</td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github"/></a>
-    </td>
-  </tr>
-</table>
+- **Bachelor of Science**  
+  MCM DAV College, Kangra, Himachal Pradesh | 2019 – 2022
 
-</div>
+---
+
+## 🚀 Projects
+
+| Project | Tech Stack | Description | Links |
+|---------|------------|-------------|-------|
+| **E-Commerce Website with Admin Panel** | React, Context API, JWT, Bootstrap, API, JSON-Server | Full-featured shop with product listing, cart, admin dashboard, and order management. | [Code](#) \| [Live Demo](#) |
+| **Blogify – Full Stack Blog Platform** | React, Node.js, Express, MongoDB, JWT, Bootstrap | Secure blog platform supporting user authentication, publishing, and admin management. | [Code](#) |
+| **Wallet Watch – Expense Tracker** | React, useReducer, Bootstrap, localStorage | Real-time personal finance tracker with analytics and receipt management. | [Code](#) |
+| **Cafe Website** | HTML, CSS, Bootstrap | Responsive website for a local business. | [Code](#) |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🖥️ Frontend
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
+### 🛠️ Backend
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)]()
+
+
+### 🗄️ Database
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)]()
+
+### 🧰 Tools
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-4B8DF8?style=for-the-badge&logoColor=white)]()
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
 
 ---
 
@@ -141,36 +126,23 @@ const abhishek = {
 
 ---
 
-## 💼 Professional Journey
+## 📝 Contact & Connect
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/-Kaspro%20Solutions%20Pvt.%20Ltd.-333?style=for-the-badge&labelColor=333&logo=briefcase&logoColor=white"/>
-<br>
-<b>MERN Stack Developer (Trainee)</b> | Mar 2025–Present
-<ul align="left">
-  <li>Developed RESTful APIs with <b>95% test coverage</b></li>
-  <li>Reduced page load time by <b>40%</b> through code optimization</li>
-  <li>Mentored 3 junior developers</li>
-</ul>
-
-<img src="https://img.shields.io/badge/-Neo--Crew%20Technology-333?style=for-the-badge&labelColor=333&logo=briefcase&logoColor=white"/>
-<br>
-<b>Frontend Intern</b> | Jan 2025–Mar 2025
-<ul align="left">
-  <li>Built <b>10+ reusable React components</b></li>
-  <li>Improved accessibility scores by <b>35%</b></li>
-</ul>
-
-</div>
-
-
----
-
+<p align="center">
+  <a href="mailto:dhiman.abhishek2010@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhiman-abhishek2010">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/inurdream-abhi143">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=inurdream-abhi143&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 <p align="center">
-  <em>"The best way to learn is to teach" — Frank Oppenheimer</em><br>
-  <b>Let's connect and create something amazing!</b>
+  <em>"The best way to learn is to teach." — Frank Oppenheimer</em><br>
+  <b>Let's build something impactful together!</b>
 </p>
