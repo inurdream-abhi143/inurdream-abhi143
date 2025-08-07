@@ -36,12 +36,6 @@ const abhishek = {
   frameworks: ["React", "Node.js", "Express", "Bootstrap"],
   databases: ["MongoDB", "MsSQL"],
   tools: ["Git", "VS Code", "Postman", "Thunder Client", "Figma", "Vite"],
-  interests: [
-    "Building scalable web apps",
-    "Mentoring junior developers",
-    "Open-source contributions",
-    "Tech community outreach"
-  ]
 };
 ```
 
@@ -109,7 +103,6 @@ const abhishek = {
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 [![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-4B8DF8?style=for-the-badge&logoColor=white)]()
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
 
 ---
