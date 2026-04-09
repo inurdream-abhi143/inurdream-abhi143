@@ -31,32 +31,29 @@
 const abhishek = {
   name: "Abhishek Dhiman",
   location: "Kangra, Himachal Pradesh, India",
-  role: "Full Stack Developer | MERN Stack Enthusiast",
-  code: ["JavaScript", "HTML5", "CSS3"],
-  frameworks: ["React", "Node.js", "Express", "Bootstrap"],
-  databases: ["MongoDB", "MsSQL"],
-  tools: ["Git", "VS Code", "Postman", "Thunder Client", "Figma", "Vite"],
+  role: "Full Stack Developer (MERN + Next.js)",
+  code: ["JavaScript (ES6+)", "HTML5", "CSS3"],
+  frameworks: ["React", "Next.js", "React Native", "Node.js", "Express", "Bootstrap", "Tailwind CSS"],
+  databases: ["MongoDB"],
+  tools: ["Git", "GitHub", "VS Code", "Postman", "Chrome DevTools", "Vite"],
 };
 ```
 
 ---
 
-## 💼 Professional Experience
+ ## 💼 Professional Experience
+
+### UIUX Studio
+**Full Stack Developer** | Oct 2025 – Mar 2026  
+- Built SSR-enabled applications using Next.js for improved performance and SEO  
+- Developed reusable UI component systems  
+- Integrated CMS-driven dynamic content  
+- Implemented cross-platform features using React Native with API integration  
 
 ### Kaspro Solutions Pvt. Ltd.
-**MERN Stack Developer (Trainee)** | Mar 2025 – Present  
-- Designed and developed RESTful APIs with JWT authentication & Context API.
-- Built scalable dashboards using React Hooks & Bootstrap.
-
-### Neo-Crew Technology
-**Frontend Intern** | Jan 2025 – Mar 2025  
-- Engineered 10+ reusable React components and improved accessibility by **35%**.
-- Developed responsive UIs using HTML, CSS, JS, and optimized React-based workflows.
-
-### NETCODER Technology
-**Intern (Frontend Developer)** | Jan 2024 – Feb 2024  
-- Built landing pages with responsive layouts and implemented best practices in HTML/CSS & Bootstrap.
-
+**MERN Stack Developer (Trainee)** | Mar 2025 – Sep 2025  
+- Implemented JWT-based authentication and role-based access control  
+- Designed REST APIs and modular dashboards using React and MongoDB  
 ---
 
 ## 🎓 Education
@@ -73,10 +70,10 @@ const abhishek = {
 
 | Project | Tech Stack | Description | Links |
 |---------|------------|-------------|-------|
-| **E-Commerce Website with Admin Panel** | React, Context API, JWT, Bootstrap, API, JSON-Server | Full-featured shop with product listing, cart, admin dashboard, and order management. | [Code](#) \| [Live Demo](#) |
-| **Blogify – Full Stack Blog Platform** | React, Node.js, Express, MongoDB, JWT, Bootstrap | Secure blog platform supporting user authentication, publishing, and admin management. | [Code](#) |
-| **Wallet Watch – Expense Tracker** | React, useReducer, Bootstrap, localStorage | Real-time personal finance tracker with analytics and receipt management. | [Code](#) |
-| **Cafe Website** | HTML, CSS, Bootstrap | Responsive website for a local business. | [Code](#) |
+| **E-Commerce Website with Admin Panel** | React, Context API, React Router, Bootstrap, API, JSON Server | Implemented product filtering, cart management, order placement, and admin dashboard with role-based access and protected routes. | - |
+| **Blogify – Full Stack Blog Platform (Ongoing)** | React, Node.js, Express.js, MongoDB, JWT, Mongoose, Bootstrap | Developing and enhancing role-based authentication, blog publishing workflow, comment system, and secure REST APIs with backend validation. | - |
+| **ChainStrap – Web & Mobile Application** | Next.js, React Native, Node.js, Express.js, MongoDB, REST APIs | Built a cross-platform full-stack app with shared business logic across web and mobile, secure authentication, and scalable architecture. | - |
+| **Cafe Website** | HTML, CSS, Bootstrap | Developed a responsive website for a local business with clean UI and optimized layout for different devices. | - |
 
 ---
 
@@ -84,14 +81,19 @@ const abhishek = {
 
 ### 🖥️ Frontend
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
+[![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)]()
 
 ### 🛠️ Backend
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)]()
-
+[![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)]()
+[![Bcrypt](https://img.shields.io/badge/-Bcrypt-003A8F?style=for-the-badge&logoColor=white)]()
+[![Multer](https://img.shields.io/badge/-Multer-FF6F00?style=for-the-badge&logoColor=white)]()
 
 ### 🗄️ Database
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
@@ -99,11 +101,13 @@ const abhishek = {
 
 ### 🧰 Tools
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-[![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-4B8DF8?style=for-the-badge&logoColor=white)]()
+[![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)]()
 
 ---
 
