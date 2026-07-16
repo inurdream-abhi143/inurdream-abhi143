@@ -3,25 +3,33 @@
   <img src="./assets/banner.png" width="100%" alt="Abhishek Dhiman Banner" />
 </p>
 
-<!-- Animated Typing Status -->
+<!-- Glowing Section Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;Professional+Full+Stack+%7C+Frontend+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Passionate+about+Building+Impactful+Products+%F0%9F%92%AB;Simplicity+in+Code%2C+Excellence+in+Delivery+%E2%9C%A8" alt="Typing SVG" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</p>
+
+<!-- Animated Typing Status (Outfit Font, Adaptive Colors) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Specialist+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%92%AB" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Specialist+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%92%AB" alt="Typing SVG" />
+  </picture>
 </p>
 
 <p align="center">
   <em>Delivering robust, scalable web solutions • Empowering digital transformation</em>
 </p>
 
-<!-- Social Connect Badges -->
+<!-- Social Connect Badges (Compact Theme-Matching Toolbar) -->
 <p align="center">
   <a href="mailto:dhiman.abhishek2010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhiman.abhishek2010%40gmail.com-00f2fe?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/dhiman-abhishek2010">
-    <img src="https://img.shields.io/badge/LinkedIn-dhiman--abhishek2010-7f00ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/inurdream-abhi143">
-    <img src="https://img.shields.io/badge/GitHub-inurdream--abhi143-00f2fe?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
