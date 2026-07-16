@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#7c3aed;#06b6d4" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#06b6d4;#7c3aed" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <style>
+      .bg { fill: url(#g2); }
+      .title { font-family: 'Outfit', system-ui, -apple-system, 'Segoe UI', Roboto; font-size:44px; fill: white; }
+      .sub { font-family: 'Inter', system-ui; font-size:18px; fill: rgba(255,255,255,0.95); }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="300" rx="12"/>
+  <text x="60" y="110" class="title">Abhishek Dhiman</text>
+  <text x="60" y="150" class="sub">Building scalable products — React, Next.js & Node</text>
+  <g transform="translate(920,40)">
+    <rect x="0" y="0" width="200" height="200" rx="24" fill="rgba(255,255,255,0.06)" />
+    <g transform="translate(20,20)">
+      <circle cx="40" cy="40" r="24" fill="#fff" opacity="0.08">
+        <animate attributeName="r" values="20;28;20" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="10" y="46" fill="#fff" font-size="18">Dev</text>
+    </g>
+  </g>
+</svg>

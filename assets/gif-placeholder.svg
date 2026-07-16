@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+  <rect width="600" height="200" rx="12" fill="#0b1220" />
+  <g>
+    <rect x="40" y="34" width="520" height="120" rx="8" fill="#071225" stroke="#1f2937" />
+    <text x="64" y="96" fill="#9CA3AF" font-size="18" font-family="Outfit">GIF Preview Placeholder</text>
+    <text x="64" y="124" fill="#475569" font-size="12">Replace this with a demonstration GIF (assets/project-xyz.gif)</text>
+    <circle cx="480" cy="96" r="28" fill="#2563eb">
+      <animate attributeName="r" values="26;30;26" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="472" y="102" fill="#fff" font-size="16">GIF</text>
+  </g>
+</svg>

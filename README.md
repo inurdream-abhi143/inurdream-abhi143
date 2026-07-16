@@ -1,5 +1,7 @@
 <!-- Banner -->
 <p align="center">
+  <!-- Default banner: change the src to switch variants -->
+  <!-- options: ./assets/animated-banner.svg | ./assets/animated-banner-2.svg | ./assets/animated-banner-minimal.svg -->
   <img src="./assets/animated-banner.svg" width="100%" alt="Abhishek Dhiman Animated Banner" />
 </p>
 
@@ -65,24 +67,55 @@ I upgraded this section to be concise, modern, and scannable. Each item highligh
 I've modernized the projects area so each project shows a short outcome, tech stack, and links to demo & source.
 
 ### E-Commerce Website with Admin Panel
-<p align="center"><img src="./assets/project-ecommerce.svg" width="60%" alt="E-Commerce preview"/></p>
+<p align="center"><!-- GIF fallback: replace with ./assets/project-ecommerce.gif if available -->
+  <img src="./assets/project-ecommerce.svg" width="60%" alt="E-Commerce preview"/>
+</p>
 - Tech: React, Context API, Bootstrap, JSON Server
 - Highlights: Product filtering, cart, orders, admin panel, protected routes, RBAC
 - Links: [Live Demo](https://github.com) • [Source](projects/e-commerce/README.md)
 
 ### Blogify — Full Stack Blog Platform
-<p align="center"><img src="./assets/project-blogify.svg" width="60%" alt="Blogify preview"/></p>
+<p align="center"><!-- GIF fallback: replace with ./assets/project-blogify.gif if available -->
+  <img src="./assets/project-blogify.svg" width="60%" alt="Blogify preview"/>
+</p>
 - Tech: React, Node.js, Express, MongoDB, JWT
 - Highlights: Role-based auth, publishing workflow, comments, secure APIs
 - Links: [Live Demo](https://blogify-demo.vercel.app) • [Source](projects/blogify/README.md)
 
 ### ChainStrap — Web & Mobile (Shared Logic)
-<p align="center"><img src="./assets/project-chainstrap.svg" width="60%" alt="ChainStrap preview"/></p>
+<p align="center"><!-- GIF fallback: replace with ./assets/project-chainstrap.gif if available -->
+  <img src="./assets/project-chainstrap.svg" width="60%" alt="ChainStrap preview"/>
+</p>
 - Tech: Next.js, React Native, Node.js, MongoDB
 - Highlights: Shared business logic, consistent UI across platforms, secure APIs
 - Links: [Live Demo](https://github.com) • [Source](projects/chainstrap/README.md)
 
-> Tip: I added animated SVG previews as placeholders. If you prefer GIFs or screenshots, upload them and I'll swap them in.
+> Tip: I added animated SVG previews as placeholders. If you prefer GIFs or screenshots, upload them to assets/ as project-<name>.gif and they will replace the SVGs automatically.
+
+---
+
+## 🧩 Banner Variants
+
+I added three banner variants — pick the one you like by updating the README image src to one of these files:
+
+- assets/animated-banner.svg (default)
+- assets/animated-banner-2.svg (colorful variant)
+- assets/animated-banner-minimal.svg (compact)</n
+To preview locally, open README.md in a Markdown viewer (or view on GitHub after pushing).
+
+---
+
+## 🖼️ Project GIFs / Screenshots (how-to)
+
+To create compact demonstration GIFs from a short screen recording or MP4, use the included script:
+
+```
+./scripts/create-gif.sh demo.mp4 assets/project-ecommerce.gif
+```
+
+Script uses ffmpeg and default settings to produce a 15fps 800px-wide GIF; adjust the scale and fps in the script as needed.
+
+Once you add `assets/project-*.gif` files, edit the README and replace the `.svg` src with `.gif` (same filename prefix) or simply commit the GIF and it will show if you update the path.
 
 ---
 

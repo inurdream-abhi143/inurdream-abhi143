@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140">
+  <rect width="1200" height="140" rx="8" fill="#0b1220" />
+  <text x="28" y="82" fill="#e2e8f0" font-size="28" font-family="Outfit">Abhishek Dhiman</text>
+  <text x="28" y="110" fill="#9CA3AF" font-size="14">Full Stack Developer — MERN & Next.js</text>
+  <g transform="translate(980,20)">
+    <rect x="0" y="0" width="160" height="100" rx="12" fill="#111827">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="24" y="56" fill="#fff" font-size="14">View profile</text>
+  </g>
+</svg>
