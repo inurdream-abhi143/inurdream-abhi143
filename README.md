@@ -41,15 +41,13 @@ Passionate about clean UI, scalable backend architecture, and solving real-world
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-👨‍💻 **Full Stack Developer**
+I am a passionate **Full Stack Developer** specialized in building modern, scalable, and user-centric web applications. With hands-on expertise in the MERN stack and Next.js, I enjoy transforming complex problems into clean, robust, and elegant code solutions.
 
-⚡ **React • Next.js • Node.js • Express**
-
-🛠️ **Building Admin Panels & CMS**
-
-📍 **India**
-
-🎯 **Open to Full-Time Opportunities**
+* 🚀 **Core Focus**: MERN Stack, Next.js, and API Integration
+* 🛠️ **Experience**: Developing administrative dashboards, CMS portals, and database architectures
+* ⚙️ **Specialties**: Secure authentication, role-based access control (RBAC), and clean code structure
+* 📍 **Location**: Kangra, Himachal Pradesh, India
+* 🎯 **Goal**: Open to full-time developer opportunities and impactful collaborations
 
 <br />
 
