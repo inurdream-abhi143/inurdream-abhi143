@@ -56,6 +56,14 @@ I am a passionate **Full Stack Developer** specialized in building modern, scala
 <!-- Professional Experience -->
 ## 💼 Professional Experience
 
+### 💼 Veritos Infosolutions
+**Jr. Web Developer** | *May 2026 – Present*
+
+• Building modern, responsive websites and client solutions  
+• Learning and expanding skills in web development and full-stack technologies  
+
+--------------------
+
 ### 💼 UIUX Studio
 **Full Stack Developer** | *Oct 2025 – Mar 2026*
 
