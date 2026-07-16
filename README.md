@@ -2,9 +2,17 @@
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Abhishek Dhiman Banner" />
 </p>
-
 <br />
 
+<!-- Animated Typing Status (Outfit Font, Adaptive Colors) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Specialist+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%92%AB" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Specialist+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%92%AB" alt="Typing SVG" />
+  </picture>
+</p>
+
+<br />
 <!-- Hero -->
 # Hi 👋 I'm Abhishek Dhiman
 
