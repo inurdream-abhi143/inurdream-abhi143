@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="12" fill="#0b1220" />
+  <text x="30" y="60" fill="#fff" font-size="22" font-family="Outfit">E-Commerce • Admin Panel</text>
+  <text x="30" y="100" fill="#9CA3AF" font-size="14">React • Context API • Bootstrap • JSON Server</text>
+  <g transform="translate(30,140)">
+    <rect width="260" height="140" rx="8" fill="#071422" stroke="#1e293b" />
+    <text x="20" y="40" fill="#e2e8f0" font-size="13">• Product filtering & search</text>
+    <text x="20" y="70" fill="#e2e8f0" font-size="13">• Cart, orders & checkout flow</text>
+    <text x="20" y="100" fill="#e2e8f0" font-size="13">• Admin dashboard & RBAC</text>
+  </g>
+  <g transform="translate(320,140)">
+    <circle cx="60" cy="60" r="38" fill="#2563eb">
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 60 60" to="360 60 60" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="36" y="66" fill="#fff" font-size="18">UI</text>
+  </g>
+</svg>

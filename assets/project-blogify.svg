@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="12" fill="#071126" />
+  <text x="30" y="60" fill="#fff" font-size="22" font-family="Outfit">Blogify — Full Stack Blog Platform</text>
+  <text x="30" y="100" fill="#9CA3AF" font-size="14">React • Node.js • Express • MongoDB • JWT</text>
+  <g transform="translate(30,140)">
+    <rect width="260" height="140" rx="8" fill="#071422" stroke="#1e293b" />
+    <text x="20" y="40" fill="#e2e8f0" font-size="13">• Role-based authentication</text>
+    <text x="20" y="70" fill="#e2e8f0" font-size="13">• Publishing workflow & comments</text>
+    <text x="20" y="100" fill="#e2e8f0" font-size="13">• RESTful APIs & validation</text>
+  </g>
+  <g transform="translate(320,140)">
+    <rect x="0" y="0" width="160" height="100" rx="8" fill="#9333ea">
+      <animate attributeName="x" values="0;20;0" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="20" y="56" fill="#fff" font-size="18">API</text>
+  </g>
+</svg>

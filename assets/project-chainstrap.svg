@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+  <rect width="720" height="360" rx="12" fill="#08121a" />
+  <text x="30" y="60" fill="#fff" font-size="22" font-family="Outfit">ChainStrap — Web & Mobile</text>
+  <text x="30" y="100" fill="#9CA3AF" font-size="14">Next.js • React Native • Node.js • MongoDB</text>
+  <g transform="translate(30,140)">
+    <rect width="260" height="140" rx="8" fill="#071422" stroke="#1e293b" />
+    <text x="20" y="40" fill="#e2e8f0" font-size="13">• Shared business logic</text>
+    <text x="20" y="70" fill="#e2e8f0" font-size="13">• Consistent cross-platform UI</text>
+    <text x="20" y="100" fill="#e2e8f0" font-size="13">• Secure auth & sync</text>
+  </g>
+  <g transform="translate(340,160)">
+    <circle cx="40" cy="40" r="36" fill="#47A248">
+      <animate attributeName="r" values="34;40;34" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="46" fill="#fff" font-size="14">App</text>
+  </g>
+</svg>

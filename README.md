@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Abhishek Dhiman Banner" />
+  <img src="./assets/animated-banner.svg" width="100%" alt="Abhishek Dhiman Animated Banner" />
 </p>
 
 <br />
@@ -47,7 +47,7 @@ I upgraded this section to be concise, modern, and scannable. Each item highligh
 ## 🔥 Highlights (Animated & Visual)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=16&pause=1200&color=9333ea&center=true&width=680&lines=Featured+Technologies+%E2%9C%85+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+Tailwind" alt="technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=16&pause=1200&color=9333ea&center=true&width=680&lines=Featured+Technologies+%E2%9C%85+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+%7C+TypeScript" alt="technologies" />
 </p>
 
 <p align="center">
@@ -55,6 +55,7 @@ I upgraded this section to be concise, modern, and scannable. Each item highligh
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
@@ -64,28 +65,31 @@ I upgraded this section to be concise, modern, and scannable. Each item highligh
 I've modernized the projects area so each project shows a short outcome, tech stack, and links to demo & source.
 
 ### E-Commerce Website with Admin Panel
+<p align="center"><img src="./assets/project-ecommerce.svg" width="60%" alt="E-Commerce preview"/></p>
 - Tech: React, Context API, Bootstrap, JSON Server
 - Highlights: Product filtering, cart, orders, admin panel, protected routes, RBAC
-- Links: [Live Demo](https://github.com) • [Source](https://github.com)
+- Links: [Live Demo](https://github.com) • [Source](projects/e-commerce/README.md)
 
 ### Blogify — Full Stack Blog Platform
+<p align="center"><img src="./assets/project-blogify.svg" width="60%" alt="Blogify preview"/></p>
 - Tech: React, Node.js, Express, MongoDB, JWT
 - Highlights: Role-based auth, publishing workflow, comments, secure APIs
-- Links: [Live Demo](https://blogify-demo.vercel.app) • [Source](https://github.com)
+- Links: [Live Demo](https://blogify-demo.vercel.app) • [Source](projects/blogify/README.md)
 
 ### ChainStrap — Web & Mobile (Shared Logic)
+<p align="center"><img src="./assets/project-chainstrap.svg" width="60%" alt="ChainStrap preview"/></p>
 - Tech: Next.js, React Native, Node.js, MongoDB
 - Highlights: Shared business logic, consistent UI across platforms, secure APIs
-- Links: [Live Demo](https://github.com) • [Source](https://github.com)
+- Links: [Live Demo](https://github.com) • [Source](projects/chainstrap/README.md)
 
-> Tip: If you'd like, I can turn these into interactive project cards (animated GIF previews) — I can add screenshots/GIFs for each project.
+> Tip: I added animated SVG previews as placeholders. If you prefer GIFs or screenshots, upload them and I'll swap them in.
 
 ---
 
 ## 🛠️ Tech Stack & Tools (Modernized)
 
 ### Frontend
-JavaScript (ES6+) • React • Next.js • React Native • TypeScript (in-progress) • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+JavaScript (ES6+) • React • Next.js • React Native • TypeScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
 ### Backend & Databases
 Node.js • Express • REST APIs • JWT • Bcrypt • Multer • MongoDB • Mongoose

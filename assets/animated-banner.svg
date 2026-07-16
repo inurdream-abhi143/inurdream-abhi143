@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#2563eb">
+        <animate attributeName="stop-color" values="#2563eb;#9333ea;#3b82f6;#2563eb" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#9333ea">
+        <animate attributeName="stop-color" values="#9333ea;#3b82f6;#2563eb;#9333ea" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <style>
+      .bg { fill: url(#g); }
+      .title { font-family: 'Outfit', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-size:48px; fill: white; }
+      .sub { font-family: 'Inter', system-ui; font-size:20px; fill: rgba(255,255,255,0.9); }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="300" rx="12"/>
+  <text x="60" y="120" class="title">Abhishek Dhiman</text>
+  <text x="60" y="160" class="sub">Full Stack Developer — MERN & Next.js</text>
+  <!-- subtle floating dots animation -->
+  <g transform="translate(980,60)">
+    <circle r="6" fill="#fff" opacity="0.25">
+      <animate attributeName="cy" values="0;30;0" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#fff" opacity="0.18" cx="30">
+      <animate attributeName="cy" values="10;40;10" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.7;0.18" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
