@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Status -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;Professional+Full+Stack+%7C+Frontend+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Passionate+about+Building+Impactful+Products+%F0%9F%92%AB;Simplicity+in+Code%2C+Excellence+in+Delivery+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;Professional+Full+Stack+Developer;Open+Source+Enthusiast" />
 </p>
 
 <p align="center">
@@ -221,11 +221,8 @@ const abhishek = {
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&title_color=2563eb&icon_color=3b82f6&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b&border_radius=8" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inurdream-abhi143&title_color=9333ea&icon_color=3b82f6&text_color=e2e8f0&bg_color=0b0f19&stroke=1e293b&ring=9333ea&fire=3b82f6&border_radius=8" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inurdream-abhi143&layout=compact&title_color=2563eb&icon_color=9333ea&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b&border_radius=8" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inurdream-abhi143&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
 <!-- Glowing Section Divider -->
