@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Abhishek Dhiman Banner" />
 </p>
+
 <br />
 
 <!-- Animated Typing Status (Outfit Font, Adaptive Colors) -->
@@ -13,6 +14,7 @@
 </p>
 
 <br />
+
 <!-- Hero -->
 # Hi 👋 I'm Abhishek Dhiman
 
@@ -28,7 +30,7 @@ Passionate about clean UI, scalable backend architecture, and solving real-world
   <a href="https://www.linkedin.com/in/dhiman-abhishek2010">
     <img src="https://img.shields.io/badge/💼_LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:dhiman.abhishek2010@gmail.com">
+  <a href="mailto:dhimanabhishek2001@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-db4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://portfolio-drab-gamma-xwqbb5iych.vercel.app/pdf/Abhishek_Dhiman_MERN_Resume.pdf">
@@ -55,21 +57,19 @@ I am a passionate **Full Stack Developer** specialized in building modern, scala
 ## 💼 Professional Experience
 
 ### 💼 UIUX Studio
-**Full Stack Developer** | *2025–Present*
+**Full Stack Developer** | *Oct 2025 – Mar 2026*
 
-• Built CMS  
-• Authentication  
-• RBAC  
-• REST APIs  
+• Built scalable SSR-enabled applications using Next.js and Tailwind CSS  
+• Developed reusable UI systems and integrated CMS-driven dynamic content  
+• Implemented cross-platform features using React Native with API integration  
 
 --------------------
 
-### 💼 Kaspro Solutions
-**MERN Stack Trainee**  
+### 💼 Kaspro Solutions Pvt. Ltd.
+**MERN Stack Developer (Trainee)** | *Mar 2025 – Sep 2025*
 
-• React  
-• Node  
-• MongoDB  
+• Implemented JWT-based authentication and role-based access control  
+• Designed REST APIs and modular dashboards using React and MongoDB  
 
 <br />
 
@@ -80,61 +80,69 @@ I am a passionate **Full Stack Developer** specialized in building modern, scala
   Central University of Himachal Pradesh | *2022 – 2024*
 
 * 🔬 **Bachelor of Science (B.Sc.)**  
-  MCM DAV College, Kangra, HP | *2019 – 2022*
+  MCM DAV College, Kangra, Himachal Pradesh | *2019 – 2022*
+
+* 🏫 **Higher Secondary (HPBOSE)**  
+  Govt Senior Secondary School, Kachhiari, Himachal Pradesh | *2019*
 
 <br />
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 ### Frontend
-`React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `Bootstrap`
+`JavaScript (ES6+)` • `React.js` • `Next.js` • `React Native` • `React Router` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `Context API`
 
 ----------------
 
-### Backend
-`Node.js` • `Express.js` • `JWT` • `MySQL` • `MongoDB`
+### Backend & Databases
+`Node.js` • `Express.js` • `REST APIs` • `JWT` • `Bcrypt.js` • `Multer` • `JSON Server` • `MongoDB`
 
 ----------------
 
-### Tools
-`Git` • `Postman` • `Vercel` • `Render` • `Figma` • `VS Code`
+### Technologies & Tools
+`Git` • `GitHub` • `VS Code` • `Postman` • `Chrome DevTools` • `Vite` • `dotenv` • `Babel` • `CORS` • `CMS Integration` • `Prettier` • `MS Excel`
 
 <br />
 
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-> ┌──────────────────────────────────────────┐  
-> &nbsp;&nbsp;**WalletWatch**  
-> &nbsp;&nbsp;*Personal Finance Dashboard*  
+> ┌────────────────────────────────────────────────────────────────────────┐  
+> &nbsp;&nbsp;**E-Commerce Website with Admin Panel**  
+> &nbsp;&nbsp;*React.js • Context API • React Router • Bootstrap • API • JSON Server*  
 >   
-> &nbsp;&nbsp;React • Node • MongoDB  
+> &nbsp;&nbsp;• Implemented product filtering, cart, order placement, and admin panel  
+> &nbsp;&nbsp;• Built protected routes and role-based access control  
 >   
-> &nbsp;&nbsp;[🔗 Live](https://walletwatch.vercel.app) &nbsp;|&nbsp; [📂 Code](https://github.com)  
-> └──────────────────────────────────────────┘  
+> &nbsp;&nbsp;[🔗 Live Demo](https://github.com) &nbsp;|&nbsp; [📂 GitHub Code](https://github.com)  
+> └────────────────────────────────────────────────────────────────────────┘  
 
 <br />
 
-> ┌──────────────────────────────────────────┐  
-> &nbsp;&nbsp;**Blogify**  
-> &nbsp;&nbsp;*Blog Platform with Admin Panel*  
+> ┌────────────────────────────────────────────────────────────────────────┐  
+> &nbsp;&nbsp;**Blogify – Full Stack Blog Platform**  
+> &nbsp;&nbsp;*React.js • Node.js • Express.js • MongoDB • JWT • Bootstrap • Mongoose*  
 >   
-> &nbsp;&nbsp;React • Node • MongoDB  
+> &nbsp;&nbsp;• Developed role-based authentication system with JWT  
+> &nbsp;&nbsp;• Implemented blog publishing workflow and comment system  
+> &nbsp;&nbsp;• Built RESTful APIs and handled secure backend validation  
 >   
-> &nbsp;&nbsp;[🔗 Live](https://blogify-demo.vercel.app) &nbsp;|&nbsp; [📂 Code](https://github.com)  
-> └──────────────────────────────────────────┘  
+> &nbsp;&nbsp;[🔗 Live Demo](https://blogify-demo.vercel.app) &nbsp;|&nbsp; [📂 GitHub Code](https://github.com)  
+> └────────────────────────────────────────────────────────────────────────┘  
 
 <br />
 
-> ┌──────────────────────────────────────────┐  
-> &nbsp;&nbsp;**E-Commerce Website**  
-> &nbsp;&nbsp;*Full Stack E-Commerce*  
+> ┌────────────────────────────────────────────────────────────────────────┐  
+> &nbsp;&nbsp;**ChainStrap – Cross-Platform Web & Mobile Application**  
+> &nbsp;&nbsp;*Next.js • React Native • Node.js • Express.js • MongoDB • REST APIs*  
 >   
-> &nbsp;&nbsp;React • Node • MySQL  
+> &nbsp;&nbsp;• Developed web (Next.js) & mobile (React Native) apps with shared logic  
+> &nbsp;&nbsp;• Implemented secure authentication, API integration & role-based workflows  
+> &nbsp;&nbsp;• Designed reusable component architecture ensuring platform consistency  
 >   
-> &nbsp;&nbsp;[🔗 Live](https://ecommerce-admin.vercel.app) &nbsp;|&nbsp; [📂 Code](https://github.com)  
-> └──────────────────────────────────────────┘  
+> &nbsp;&nbsp;[🔗 Live Demo](https://github.com) &nbsp;|&nbsp; [📂 GitHub Code](https://github.com)  
+> └────────────────────────────────────────────────────────────────────────┘  
 
 <br />
 
@@ -165,7 +173,7 @@ Thanks for visiting! Let's build something amazing together.
 <p align="center">
   <a href="https://portfolio-drab-gamma-xwqbb5iych.vercel.app/">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/dhiman-abhishek2010">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:dhiman.abhishek2010@gmail.com">📧 Email</a>
+  <a href="mailto:dhimanabhishek2001@gmail.com">📧 Email</a>
 </p>
 
 <p align="center">
