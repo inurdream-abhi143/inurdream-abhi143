@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
+  <!-- styles and animations -->
+  <style>
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(1.05); }
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-10px) rotate(5deg); }
+    }
+    @keyframes textGlow {
+      0%, 100% { filter: drop-shadow(0 0 8px rgba(0, 242, 254, 0.4)); }
+      50% { filter: drop-shadow(0 0 18px rgba(157, 78, 221, 0.7)); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 0.8; }
+    }
+    .bg-gradient {
+      fill: url(#bg-grad);
+    }
+    .glow-circle-1 {
+      fill: #00f2fe;
+      filter: url(#blur-large);
+      opacity: 0.3;
+      transform-origin: 200px 100px;
+      animation: pulse 6s ease-in-out infinite;
+    }
+    .glow-circle-2 {
+      fill: #7f00ff;
+      filter: url(#blur-large);
+      opacity: 0.25;
+      transform-origin: 600px 150px;
+      animation: pulse 8s ease-in-out infinite;
+    }
+    .title-text {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 42px;
+      letter-spacing: 8px;
+      fill: url(#title-grad);
+      animation: textGlow 4s ease-in-out infinite;
+    }
+    .subtitle-text {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      letter-spacing: 5px;
+      fill: #00f2fe;
+      opacity: 0.9;
+    }
+    .tagline-text {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      letter-spacing: 2px;
+      fill: #94a3b8;
+    }
+    .grid-lines {
+      stroke: #1e293b;
+      stroke-width: 1;
+      opacity: 0.4;
+    }
+    .cyber-border {
+      stroke: url(#border-grad);
+      stroke-width: 2;
+      fill: none;
+      opacity: 0.8;
+    }
+    .node {
+      fill: #00f2fe;
+      animation: blink 3s infinite ease-in-out;
+    }
+    .node-purple {
+      fill: #9d4edd;
+      animation: blink 4s infinite ease-in-out;
+    }
+  </style>
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#4facfe" />
+      <stop offset="100%" stop-color="#9d4edd" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="30%" stop-color="#1e293b" />
+      <stop offset="70%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#9d4edd" />
+    </linearGradient>
+
+    <!-- Blur Filter -->
+    <filter id="blur-large" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60" />
+    </filter>
+    
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="250" class="bg-gradient" />
+
+  <!-- Grid Pattern -->
+  <g class="grid-lines">
+    <!-- Horizontal lines -->
+    <line x1="0" y1="25" x2="800" y2="25" />
+    <line x1="0" y1="75" x2="800" y2="75" />
+    <line x1="0" y1="125" x2="800" y2="125" />
+    <line x1="0" y1="175" x2="800" y2="175" />
+    <line x1="0" y1="225" x2="800" y2="225" />
+    <!-- Vertical lines -->
+    <line x1="50" y1="0" x2="50" y2="250" />
+    <line x1="150" y1="0" x2="150" y2="250" />
+    <line x1="255" y1="0" x2="255" y2="250" />
+    <line x1="350" y1="0" x2="350" y2="250" />
+    <line x1="450" y1="0" x2="450" y2="250" />
+    <line x1="550" y1="0" x2="550" y2="250" />
+    <line x1="650" y1="0" x2="650" y2="250" />
+    <line x1="750" y1="0" x2="750" y2="250" />
+  </g>
+
+  <!-- Glowing background blobs -->
+  <circle cx="150" cy="80" r="90" class="glow-circle-1" />
+  <circle cx="650" cy="170" r="110" class="glow-circle-2" />
+
+  <!-- Cybernetic tech graphics on right side -->
+  <g transform="translate(650, 120) scale(0.95)" style="animation: float 6s ease-in-out infinite;">
+    <!-- Concentric circles -->
+    <circle cx="0" cy="0" r="60" stroke="#00f2fe" stroke-width="1.5" stroke-dasharray="10 15" fill="none" opacity="0.3" />
+    <circle cx="0" cy="0" r="45" stroke="#9d4edd" stroke-width="1" stroke-dasharray="40 10" fill="none" opacity="0.4" />
+    <circle cx="0" cy="0" r="30" stroke="#00f2fe" stroke-width="2" fill="none" opacity="0.6" />
+    <circle cx="0" cy="0" r="8" fill="#00f2fe" opacity="0.8" />
+    <!-- Connecting lines and nodes -->
+    <line x1="0" y1="0" x2="-60" y2="-45" stroke="#00f2fe" stroke-width="1" opacity="0.5" />
+    <line x1="0" y1="0" x2="-80" y2="20" stroke="#9d4edd" stroke-width="1" opacity="0.5" />
+    <circle cx="-60" cy="-45" r="4" class="node" />
+    <circle cx="-80" cy="20" r="5" class="node-purple" />
+  </g>
+
+  <!-- Floating nodes in background -->
+  <circle cx="100" cy="180" r="3" class="node" style="animation-delay: 0.5s;" />
+  <circle cx="280" cy="40" r="2.5" class="node-purple" style="animation-delay: 1.2s;" />
+  <circle cx="480" cy="210" r="3" class="node" style="animation-delay: 0.8s;" />
+  <circle cx="720" cy="50" r="4" class="node-purple" style="animation-delay: 2s;" />
+  <circle cx="50" cy="60" r="2" class="node" style="animation-delay: 1.8s;" />
+
+  <!-- Cybernetic border framing -->
+  <rect x="10" y="10" width="780" height="230" rx="6" class="cyber-border" />
+  <!-- Corner accents -->
+  <path d="M 8 25 L 8 8 L 25 8" stroke="#00f2fe" stroke-width="3" fill="none" />
+  <path d="M 775 8 L 792 8 L 792 25" stroke="#9d4edd" stroke-width="3" fill="none" />
+  <path d="M 8 225 L 8 242 L 25 242" stroke="#9d4edd" stroke-width="3" fill="none" />
+  <path d="M 775 242 L 792 242 L 792 225" stroke="#00f2fe" stroke-width="3" fill="none" />
+
+  <!-- Decorative technical marks -->
+  <text x="25" y="32" font-family="monospace" font-size="8" fill="#57534e" letter-spacing="1">SYS.LOC: 32.1024° N, 76.2691° E</text>
+  <text x="680" y="32" font-family="monospace" font-size="8" fill="#57534e" letter-spacing="1">STATUS: ACTIVE</text>
+
+  <!-- Text Content -->
+  <g transform="translate(60, 0)">
+    <!-- Main Name -->
+    <text x="0" y="125" class="title-text">ABHISHEK DHIMAN</text>
+    
+    <!-- Subtitle -->
+    <text x="5" y="165" class="subtitle-text">FULL STACK &amp; FRONTEND DEVELOPER</text>
+    
+    <!-- Tech Tagline / Core principles -->
+    <text x="5" y="195" class="tagline-text">✦ BUILDING SCALABLE WEB APPLICATIONS WITH MERN &amp; NEXT.JS ✦</text>
+  </g>
+</svg>

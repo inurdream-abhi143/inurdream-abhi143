@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 12" width="100%">
+  <style>
+    @keyframes flow {
+      0% { stroke-dashoffset: 800; }
+      100% { stroke-dashoffset: 0; }
+    }
+    .glow-line {
+      stroke: url(#grad);
+      stroke-width: 3;
+      stroke-dasharray: 150 150;
+      animation: flow 6s linear infinite;
+    }
+    .base-line {
+      stroke: #1e293b;
+      stroke-width: 1;
+      opacity: 0.5;
+    }
+  </style>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="50%" stop-color="#9333ea" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <!-- Base track line -->
+  <line x1="10" y1="6" x2="790" y2="6" class="base-line" stroke-linecap="round" />
+  <!-- Glowing flow line -->
+  <line x1="10" y1="6" x2="790" y2="6" class="glow-line" stroke-linecap="round" />
+  <!-- Glowing dot -->
+  <circle cx="10" cy="6" r="3.5" fill="#3b82f6" filter="drop-shadow(0 0 3px #3b82f6)">
+    <animate attributeName="cx" values="10; 790; 10" dur="6s" repeatCount="indefinite" keyTimes="0; 0.5; 1" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" calcMode="spline" />
+  </circle>
+</svg>
