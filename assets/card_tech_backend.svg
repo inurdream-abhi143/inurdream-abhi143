@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 200" width="100%" height="100%">
+  <style>
+    .bg { fill: #050814; stroke: #1e293b; stroke-width: 1.5; rx: 12px; }
+    .title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 14px; fill: #ffffff; }
+    .item-text { font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 12.5px; fill: #e2e8f0; }
+    .item-sub { font-family: system-ui, -apple-system, sans-serif; font-size: 10px; fill: #64748b; }
+    .bullet { fill: #339933; filter: drop-shadow(0 0 2px rgba(51, 153, 51, 0.8)); }
+    .header-icon { fill: #339933; }
+    .divider { stroke: #1e293b; stroke-width: 1; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="388" height="198" rx="12" class="bg" />
+
+  <!-- Header -->
+  <g transform="translate(20, 22)">
+    <path class="header-icon" d="M 0 6 L 6 0 L 12 6 L 6 12 Z M 3 6 L 6 3 L 9 6 L 6 9 Z" transform="scale(1.2)"/>
+    <text x="25" y="10" class="title">Backend &amp; Databases</text>
+  </g>
+
+  <line x1="20" y1="42" x2="370" y2="42" class="divider" />
+
+  <!-- Grid Items (2x3) -->
+  <g transform="translate(20, 55)">
+    <!-- Row 1, Col 1: Node.js -->
+    <g transform="translate(10, 15)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#339933" style="filter: drop-shadow(0 0 2.5px #339933);" />
+      <text x="20" y="8" class="item-text">Node.js</text>
+      <text x="20" y="20" class="item-sub">Runtime</text>
+    </g>
+
+    <!-- Row 1, Col 2: Express -->
+    <g transform="translate(190, 15)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#ffffff" style="filter: drop-shadow(0 0 2.5px #ffffff);" />
+      <text x="20" y="8" class="item-text">Express.js</text>
+      <text x="20" y="20" class="item-sub">Framework</text>
+    </g>
+
+    <!-- Row 2, Col 1: MongoDB -->
+    <g transform="translate(10, 60)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#47a248" style="filter: drop-shadow(0 0 2.5px #47a248);" />
+      <text x="20" y="8" class="item-text">MongoDB</text>
+      <text x="20" y="20" class="item-sub">NoSQL Database</text>
+    </g>
+
+    <!-- Row 2, Col 2: MySQL -->
+    <g transform="translate(190, 60)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#00758f" style="filter: drop-shadow(0 0 2.5px #00758f);" />
+      <text x="20" y="8" class="item-text">MySQL</text>
+      <text x="20" y="20" class="item-sub">SQL Database</text>
+    </g>
+
+    <!-- Row 3, Col 1: REST APIs -->
+    <g transform="translate(10, 105)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#00f2fe" style="filter: drop-shadow(0 0 2.5px #00f2fe);" />
+      <text x="20" y="8" class="item-text">REST APIs</text>
+      <text x="20" y="20" class="item-sub">Architecture</text>
+    </g>
+
+    <!-- Row 3, Col 2: JWT -->
+    <g transform="translate(190, 105)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#a855f7" style="filter: drop-shadow(0 0 2.5px #a855f7);" />
+      <text x="20" y="8" class="item-text">JWT</text>
+      <text x="20" y="20" class="item-sub">Authentication</text>
+    </g>
+  </g>
+</svg>

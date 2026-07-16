@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 200" width="100%" height="100%">
+  <style>
+    .bg { fill: #050814; stroke: #1e293b; stroke-width: 1.5; rx: 12px; }
+    .title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 14px; fill: #ffffff; }
+    .item-text { font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 12.5px; fill: #e2e8f0; }
+    .item-sub { font-family: system-ui, -apple-system, sans-serif; font-size: 10px; fill: #64748b; }
+    .bullet { fill: #f24e1e; filter: drop-shadow(0 0 2px rgba(242, 78, 30, 0.8)); }
+    .header-icon { fill: #f24e1e; }
+    .divider { stroke: #1e293b; stroke-width: 1; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="388" height="198" rx="12" class="bg" />
+
+  <!-- Header -->
+  <g transform="translate(20, 22)">
+    <path class="header-icon" d="M 0 6 L 6 0 L 12 6 L 6 12 Z M 3 6 L 6 3 L 9 6 L 6 9 Z" transform="scale(1.2)"/>
+    <text x="25" y="10" class="title">Others &amp; Design</text>
+  </g>
+
+  <line x1="20" y1="42" x2="370" y2="42" class="divider" />
+
+  <!-- Grid Items (2x3) -->
+  <g transform="translate(20, 55)">
+    <!-- Row 1, Col 1: Figma -->
+    <g transform="translate(10, 15)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#f24e1e" style="filter: drop-shadow(0 0 2.5px #f24e1e);" />
+      <text x="20" y="8" class="item-text">Figma</text>
+      <text x="20" y="20" class="item-sub">UI/UX Design</text>
+    </g>
+
+    <!-- Row 1, Col 2: ESLint -->
+    <g transform="translate(190, 15)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#4b32c3" style="filter: drop-shadow(0 0 2.5px #4b32c3);" />
+      <text x="20" y="8" class="item-text">ESLint</text>
+      <text x="20" y="20" class="item-sub">Code Quality</text>
+    </g>
+
+    <!-- Row 2, Col 1: Prettier -->
+    <g transform="translate(10, 60)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#f7b93e" style="filter: drop-shadow(0 0 2.5px #f7b93e);" />
+      <text x="20" y="8" class="item-text">Prettier</text>
+      <text x="20" y="20" class="item-sub">Formatter</text>
+    </g>
+
+    <!-- Row 2, Col 2: NPM -->
+    <g transform="translate(190, 60)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#cb3837" style="filter: drop-shadow(0 0 2.5px #cb3837);" />
+      <text x="20" y="8" class="item-text">NPM</text>
+      <text x="20" y="20" class="item-sub">Package Manager</text>
+    </g>
+
+    <!-- Row 3, Col 1: Wordpress -->
+    <g transform="translate(10, 105)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#21759b" style="filter: drop-shadow(0 0 2.5px #21759b);" />
+      <text x="20" y="8" class="item-text">Wordpress</text>
+      <text x="20" y="20" class="item-sub">CMS Platform</text>
+    </g>
+
+    <!-- Row 3, Col 2: CMS Crafter -->
+    <g transform="translate(190, 105)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#9333ea" style="filter: drop-shadow(0 0 2.5px #9333ea);" />
+      <text x="20" y="8" class="item-text">CMS Crafter</text>
+      <text x="20" y="20" class="item-sub">Custom CMS</text>
+    </g>
+  </g>
+</svg>

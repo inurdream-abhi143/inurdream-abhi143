@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 200" width="100%" height="100%">
+  <style>
+    .bg { fill: #050814; stroke: #1e293b; stroke-width: 1.5; rx: 12px; }
+    .title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 14px; fill: #ffffff; }
+    .item-text { font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 12.5px; fill: #e2e8f0; }
+    .item-sub { font-family: system-ui, -apple-system, sans-serif; font-size: 10px; fill: #64748b; }
+    .bullet { fill: #f05032; filter: drop-shadow(0 0 2px rgba(240, 80, 50, 0.8)); }
+    .header-icon { fill: #f05032; }
+    .divider { stroke: #1e293b; stroke-width: 1; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="388" height="198" rx="12" class="bg" />
+
+  <!-- Header -->
+  <g transform="translate(20, 22)">
+    <path class="header-icon" d="M 0 6 L 6 0 L 12 6 L 6 12 Z M 3 6 L 6 3 L 9 6 L 6 9 Z" transform="scale(1.2)"/>
+    <text x="25" y="10" class="title">Tools &amp; DevOps</text>
+  </g>
+
+  <line x1="20" y1="42" x2="370" y2="42" class="divider" />
+
+  <!-- Grid Items (2x3) -->
+  <g transform="translate(20, 55)">
+    <!-- Row 1, Col 1: Git -->
+    <g transform="translate(10, 15)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#f05032" style="filter: drop-shadow(0 0 2.5px #f05032);" />
+      <text x="20" y="8" class="item-text">Git</text>
+      <text x="20" y="20" class="item-sub">Version Control</text>
+    </g>
+
+    <!-- Row 1, Col 2: GitHub -->
+    <g transform="translate(190, 15)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#ffffff" style="filter: drop-shadow(0 0 2.5px #ffffff);" />
+      <text x="20" y="8" class="item-text">GitHub</text>
+      <text x="20" y="20" class="item-sub">Collaboration</text>
+    </g>
+
+    <!-- Row 2, Col 1: VS Code -->
+    <g transform="translate(10, 60)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#007acc" style="filter: drop-shadow(0 0 2.5px #007acc);" />
+      <text x="20" y="8" class="item-text">VS Code</text>
+      <text x="20" y="20" class="item-sub">Editor</text>
+    </g>
+
+    <!-- Row 2, Col 2: Postman -->
+    <g transform="translate(190, 60)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#ff6c37" style="filter: drop-shadow(0 0 2.5px #ff6c37);" />
+      <text x="20" y="8" class="item-text">Postman</text>
+      <text x="20" y="20" class="item-sub">API Testing</text>
+    </g>
+
+    <!-- Row 3, Col 1: Vercel -->
+    <g transform="translate(10, 105)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#ffffff" style="filter: drop-shadow(0 0 2.5px #ffffff);" />
+      <text x="20" y="8" class="item-text">Vercel</text>
+      <text x="20" y="20" class="item-sub">Hosting &amp; CI/CD</text>
+    </g>
+
+    <!-- Row 3, Col 2: Render -->
+    <g transform="translate(190, 105)">
+      <circle cx="5" cy="5" r="3.5" class="bullet" fill="#46e3b7" style="filter: drop-shadow(0 0 2.5px #46e3b7);" />
+      <text x="20" y="8" class="item-text">Render</text>
+      <text x="20" y="20" class="item-sub">Cloud Hosting</text>
+    </g>
+  </g>
+</svg>

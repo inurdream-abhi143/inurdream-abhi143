@@ -1,40 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 50" width="100%" height="50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 350" width="100%" height="100%">
   <style>
-    @keyframes pulse {
-      0%, 100% { opacity: 0.7; }
-      50% { opacity: 1; filter: drop-shadow(0 0 6px rgba(37, 99, 235, 0.8)); }
-    }
-    .header-text {
-      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-      font-weight: 800;
-      font-size: 20px;
-      fill: url(#text-grad);
-      letter-spacing: 2px;
-      animation: pulse 4s ease-in-out infinite;
-    }
-    .brackets {
-      fill: #9333ea;
-      font-family: monospace;
-      font-weight: 700;
-      font-size: 22px;
-      opacity: 0.8;
-    }
-    .index-no {
-      fill: #2563eb;
-      font-family: monospace;
-      font-weight: 700;
-      font-size: 14px;
-    }
+    .bg { fill: #050814; stroke: #1e293b; stroke-width: 1.5; rx: 12px; }
+    .title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 16px; fill: #ffffff; }
+    .role-title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 12.5px; fill: #ffffff; }
+    .role-meta { font-family: system-ui, -apple-system, sans-serif; font-size: 11px; fill: #94a3b8; }
+    .item-text { font-family: system-ui, -apple-system, sans-serif; font-size: 11px; fill: #cbd5e1; }
+    .timeline-line { stroke: #1e293b; stroke-width: 1.5; }
+    .node-active { fill: #050814; stroke: #3b82f6; stroke-width: 2.5; filter: drop-shadow(0 0 3px rgba(59, 130, 246, 0.8)); }
+    .node-past { fill: #050814; stroke: #a855f7; stroke-width: 2.5; filter: drop-shadow(0 0 3px rgba(168, 85, 247, 0.8)); }
+    .badge-present { fill: #2563eb; rx: 3px; }
+    .badge-present-text { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 8.5px; fill: #ffffff; text-anchor: middle; }
+    .header-icon { fill: #3b82f6; }
+    .divider { stroke: #1e293b; stroke-width: 1; }
   </style>
-  <defs>
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2563eb" />
-      <stop offset="100%" stop-color="#9333ea" />
-    </linearGradient>
-  </defs>
-  <text x="10" y="32" class="brackets">[</text>
-  <text x="25" y="28" class="index-no">02</text>
-  <text x="45" y="32" class="brackets">//</text>
-  <text x="75" y="32" class="header-text">PROFESSIONAL JOURNEY</text>
-  <text x="325" y="32" class="brackets">]</text>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="388" height="348" rx="12" class="bg" />
+
+  <!-- Header -->
+  <g transform="translate(20, 25)">
+    <!-- Briefcase Icon -->
+    <path class="header-icon" d="M 12 4 L 9 4 L 9 2 C 9 0.9 8.1 0 7 0 L 5 0 C 3.9 0 3 0.9 3 2 L 3 4 L 0 4 C -1.1 4 -2 4.9 -2 6 L -2 14 C -2 15.1 -1.1 16 0 16 L 12 16 C 13.1 16 14 15.1 14 14 L 14 6 C 14 4.9 13.1 4 12 4 Z M 5 2 L 7 2 L 7 4 L 5 4 Z" transform="scale(1.1)"/>
+    <text x="25" y="11" class="title">Professional Journey</text>
+  </g>
+
+  <line x1="20" y1="50" x2="370" y2="50" class="divider" />
+
+  <!-- Timeline Line -->
+  <line x1="30" y1="75" x2="30" y2="310" class="timeline-line" />
+
+  <!-- Node 1: UIUX Studio -->
+  <g transform="translate(45, 75)">
+    <text y="10" class="role-title">Full Stack Developer</text>
+    <text y="25" class="role-meta">UIUX Studio Pvt. Ltd. | May 2025 – Present</text>
+    
+    <!-- Present Badge -->
+    <rect x="235" y="14" width="45" height="15" class="badge-present" />
+    <text x="257.5" y="24.5" class="badge-present-text">Present</text>
+
+    <!-- Bullets -->
+    <text x="5" y="44" class="item-text">• Developed &amp; maintained CMS for education portals</text>
+    <text x="5" y="60" class="item-text">• Implemented secure auth, RBAC &amp; RESTful APIs</text>
+    <text x="5" y="76" class="item-text">• Integrated payments &amp; built admin dashboards</text>
+    <text x="5" y="92" class="item-text">• Optimized performance &amp; improved code quality</text>
+  </g>
+  <circle cx="30" cy="81" r="5" class="node-active" />
+
+  <!-- Node 2: Kaspro Solutions -->
+  <g transform="translate(45, 205)">
+    <text y="10" class="role-title">MERN Stack Developer (Trainee)</text>
+    <text y="25" class="role-meta">Kaspro Solution Pvt. Ltd. | Feb 2025 – Apr 2025</text>
+
+    <!-- Bullets -->
+    <text x="5" y="44" class="item-text">• Built full stack web apps using MERN stack</text>
+    <text x="5" y="60" class="item-text">• Worked on real-world features and API routes</text>
+    <text x="5" y="76" class="item-text">• Collaborated with team to deliver maintainable code</text>
+  </g>
+  <circle cx="30" cy="211" r="5" class="node-past" />
 </svg>

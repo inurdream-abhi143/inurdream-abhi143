@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 180" width="100%" height="100%">
+  <style>
+    .bg { fill: #050814; stroke: #1e293b; stroke-width: 1.5; rx: 12px; }
+    .title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 15px; fill: #ffffff; }
+    .tagline { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 11px; fill: #3b82f6; }
+    .desc { font-family: system-ui, -apple-system, sans-serif; font-size: 10.5px; fill: #94a3b8; }
+    .badge { fill: #1e293b; rx: 4px; }
+    .badge-text { font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 9px; fill: #cbd5e1; text-anchor: middle; }
+    .featured { fill: #2563eb; rx: 3px; }
+    .featured-text { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 8px; fill: #ffffff; text-anchor: middle; }
+    .icon { fill: #3b82f6; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="248" height="178" rx="12" class="bg" />
+
+  <!-- Header Icon & Title -->
+  <g transform="translate(15, 20)">
+    <path class="icon" d="M 12 0 L 2 0 C 0.9 0 0 0.9 0 2 L 0 14 C 0 15.1 0.9 16 2 16 L 12 16 C 13.1 16 14 15.1 14 14 L 14 2 C 14 0.9 13.1 0 12 0 Z M 10 12 L 4 12 L 4 10 L 10 10 Z M 10 8 L 4 8 L 4 6 L 10 6 Z M 10 4 L 4 4 L 4 2 L 10 2 Z" transform="scale(1.1)"/>
+    <text x="22" y="11" class="title">Blogify</text>
+  </g>
+
+  <!-- Featured Badge -->
+  <rect x="180" y="18" width="55" height="15" class="featured" />
+  <text x="207.5" y="28.5" class="featured-text">Featured</text>
+
+  <!-- Tagline -->
+  <text x="15" y="60" class="tagline">Blog Platform with Admin Panel</text>
+
+  <!-- Description (wrapped) -->
+  <text x="15" y="78" class="desc">
+    <tspan x="15" dy="0">A full stack blog platform with rich</tspan>
+    <tspan x="15" dy="16">text editor, user authentication</tspan>
+    <tspan x="15" dy="16">and secure admin dashboard.</tspan>
+  </text>
+
+  <!-- Tech Capsules -->
+  <g transform="translate(15, 140)">
+    <!-- MERN -->
+    <rect x="0" y="0" width="45" height="16" class="badge" />
+    <text x="22.5" y="11" class="badge-text">MERN</text>
+
+    <!-- JWT -->
+    <rect x="50" y="0" width="45" height="16" class="badge" />
+    <text x="72.5" y="11" class="badge-text">JWT</text>
+
+    <!-- Cloudinary -->
+    <rect x="100" y="0" width="65" height="16" class="badge" />
+    <text x="132.5" y="11" class="badge-text">Cloudinary</text>
+  </g>
+</svg>
