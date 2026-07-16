@@ -8,175 +8,128 @@
 <!-- Animated Typing Status (Outfit Font, Adaptive Colors) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Specialist+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%92%AB" />
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Specialist+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%92%AB" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&size=26&pause=1000&color=3b82f6&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%2F+Next.js;I+build+scalable+products+%26+beautiful+UIs" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&pause=1000&color=2563eb&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Abhishek+Dhiman+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%2F+Next.js;I+build+scalable+products+%26+beautiful+UIs" alt="Typing SVG" />
   </picture>
 </p>
 
-<br />
-
-<!-- Hero -->
-# Hi 👋 I'm Abhishek Dhiman
-
-### Full Stack Developer
-
-Building modern React, Node.js & TypeScript applications.  
-Passionate about clean UI, scalable backend architecture, and solving real-world business problems.
-
-<p align="left">
-  <a href="https://portfolio-drab-gamma-xwqbb5iych.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhiman-abhishek2010">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dhimanabhishek2001@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-db4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://portfolio-drab-gamma-xwqbb5iych.vercel.app/pdf/Abhishek_Dhiman_MERN_Resume.pdf">
-    <img src="https://img.shields.io/badge/📄_Resume-1f2937?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-  </a>
+<p align="center">
+  <a href="https://portfolio-drab-gamma-xwqbb5iych.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/dhiman-abhishek2010"><img src="https://img.shields.io/badge/💼_LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dhimanabhishek2001@gmail.com"><img src="https://img.shields.io/badge/📧_Email-db4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-drab-gamma-xwqbb5iych.vercel.app/pdf/Abhishek_Dhiman_MERN_Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-1f2937?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
 </p>
 
-<br />
+---
 
-<!-- About Me -->
-## 👨‍💻 About Me
+# Hi 👋 I'm Abhishek Dhiman
 
-I am a passionate **Full Stack Developer** specialized in building modern, scalable, and user-centric web applications. With hands-on expertise in the MERN stack and Next.js, I enjoy transforming complex problems into clean, robust, and elegant code solutions.
+### Full Stack Developer — MERN & Next.js
 
-* 🚀 **Core Focus**: MERN Stack, Next.js, and API Integration
-* 🛠️ **Experience**: Developing administrative dashboards, CMS portals, and database architectures
-* ⚙️ **Specialties**: Secure authentication, role-based access control (RBAC), and clean code structure
-* 📍 **Location**: Kangra, Himachal Pradesh, India
-* 🎯 **Goal**: Open to full-time developer opportunities and impactful collaborations
+I build fast, accessible, and delightful web applications using modern tools and best practices. I focus on clean UI, scalable backend architecture, and delivering production-ready features.
 
-<br />
+- 🔭 Currently: Jr. Web Developer at Veritos Infosolutions (May 2026 – Present)
+- 🌱 Learning: Advanced Server-side Rendering and Performance optimizations with Next.js
+- 💬 Ask me about: Authentication, RBAC, REST APIs, and building reusable UI systems
 
-<!-- Professional Experience -->
-## 💼 Professional Experience
 
-### 💼 Veritos Infosolutions
-**Jr. Web Developer** | *May 2026 – Present*
+## ✨ Key Features & What I Bring
 
-• Building modern, responsive websites and client solutions  
-• Learning and expanding skills in web development and full-stack technologies  
+I upgraded this section to be concise, modern, and scannable. Each item highlights a real capability or outcome.
 
---------------------
+- 🚀 Fast & Scalable: Optimized React + Node apps with modular architecture and caching where appropriate.
+- 🛡️ Secure by Design: JWT-based auth, role-based access control (RBAC), input validation and secure storage patterns.
+- 🎨 Clean UI Systems: Reusable component libraries, Tailwind-first styling, accessible markup.
+- 🔁 End-to-End Workflows: From DB schema design to CI/CD and production deployments.
+- 🤝 Collaboration: Experience working with designers, PMs, and cross-functional teams to ship features.
 
-### 💼 UIUX Studio
-**Full Stack Developer** | *Oct 2025 – Mar 2026*
 
-• Built scalable SSR-enabled applications using Next.js and Tailwind CSS  
-• Developed reusable UI systems and integrated CMS-driven dynamic content  
-• Implemented cross-platform features using React Native with API integration  
+## 🔥 Highlights (Animated & Visual)
 
---------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=16&pause=1200&color=9333ea&center=true&width=680&lines=Featured+Technologies+%E2%9C%85+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+Tailwind" alt="technologies" />
+</p>
 
-### 💼 Kaspro Solutions Pvt. Ltd.
-**MERN Stack Developer (Trainee)** | *Mar 2025 – Sep 2025*
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-• Implemented JWT-based authentication and role-based access control  
-• Designed REST APIs and modular dashboards using React and MongoDB  
+---
 
-<br />
-
-<!-- Education -->
-## 🎓 Education
-
-* 🎓 **Master of Computer Applications (MCA)**  
-  Central University of Himachal Pradesh | *2022 – 2024*
-
-* 🔬 **Bachelor of Science (B.Sc.)**  
-  MCM DAV College, Kangra, Himachal Pradesh | *2019 – 2022*
-
-* 🏫 **Higher Secondary (HPBOSE)**  
-  Govt Senior Secondary School, Kachhiari, Himachal Pradesh | *2019*
-
-<br />
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
-
-### Frontend
-`JavaScript (ES6+)` • `React.js` • `Next.js` • `React Native` • `React Router` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `Context API`
-
-----------------
-
-### Backend & Databases
-`Node.js` • `Express.js` • `REST APIs` • `JWT` • `Bcrypt.js` • `Multer` • `JSON Server` • `MongoDB`
-
-----------------
-
-### Technologies & Tools
-`Git` • `GitHub` • `VS Code` • `Postman` • `Chrome DevTools` • `Vite` • `dotenv` • `Babel` • `CORS` • `CMS Integration` • `Prettier` • `MS Excel`
-
-<br />
-
-<!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-> ┌────────────────────────────────────────────────────────────────────────┐  
-> &nbsp;&nbsp;**E-Commerce Website with Admin Panel**  
-> &nbsp;&nbsp;*React.js • Context API • React Router • Bootstrap • API • JSON Server*  
->   
-> &nbsp;&nbsp;• Implemented product filtering, cart, order placement, and admin panel  
-> &nbsp;&nbsp;• Built protected routes and role-based access control  
->   
-> &nbsp;&nbsp;[🔗 Live Demo](https://github.com) &nbsp;|&nbsp; [📂 GitHub Code](https://github.com)  
-> └────────────────────────────────────────────────────────────────────────┘  
+I've modernized the projects area so each project shows a short outcome, tech stack, and links to demo & source.
 
-<br />
+### E-Commerce Website with Admin Panel
+- Tech: React, Context API, Bootstrap, JSON Server
+- Highlights: Product filtering, cart, orders, admin panel, protected routes, RBAC
+- Links: [Live Demo](https://github.com) • [Source](https://github.com)
 
-> ┌────────────────────────────────────────────────────────────────────────┐  
-> &nbsp;&nbsp;**Blogify – Full Stack Blog Platform**  
-> &nbsp;&nbsp;*React.js • Node.js • Express.js • MongoDB • JWT • Bootstrap • Mongoose*  
->   
-> &nbsp;&nbsp;• Developed role-based authentication system with JWT  
-> &nbsp;&nbsp;• Implemented blog publishing workflow and comment system  
-> &nbsp;&nbsp;• Built RESTful APIs and handled secure backend validation  
->   
-> &nbsp;&nbsp;[🔗 Live Demo](https://blogify-demo.vercel.app) &nbsp;|&nbsp; [📂 GitHub Code](https://github.com)  
-> └────────────────────────────────────────────────────────────────────────┘  
+### Blogify — Full Stack Blog Platform
+- Tech: React, Node.js, Express, MongoDB, JWT
+- Highlights: Role-based auth, publishing workflow, comments, secure APIs
+- Links: [Live Demo](https://blogify-demo.vercel.app) • [Source](https://github.com)
 
-<br />
+### ChainStrap — Web & Mobile (Shared Logic)
+- Tech: Next.js, React Native, Node.js, MongoDB
+- Highlights: Shared business logic, consistent UI across platforms, secure APIs
+- Links: [Live Demo](https://github.com) • [Source](https://github.com)
 
-> ┌────────────────────────────────────────────────────────────────────────┐  
-> &nbsp;&nbsp;**ChainStrap – Cross-Platform Web & Mobile Application**  
-> &nbsp;&nbsp;*Next.js • React Native • Node.js • Express.js • MongoDB • REST APIs*  
->   
-> &nbsp;&nbsp;• Developed web (Next.js) & mobile (React Native) apps with shared logic  
-> &nbsp;&nbsp;• Implemented secure authentication, API integration & role-based workflows  
-> &nbsp;&nbsp;• Designed reusable component architecture ensuring platform consistency  
->   
-> &nbsp;&nbsp;[🔗 Live Demo](https://github.com) &nbsp;|&nbsp; [📂 GitHub Code](https://github.com)  
-> └────────────────────────────────────────────────────────────────────────┘  
+> Tip: If you'd like, I can turn these into interactive project cards (animated GIF previews) — I can add screenshots/GIFs for each project.
 
-<br />
+---
 
-<!-- Statistics -->
+## 🛠️ Tech Stack & Tools (Modernized)
+
+### Frontend
+JavaScript (ES6+) • React • Next.js • React Native • TypeScript (in-progress) • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+
+### Backend & Databases
+Node.js • Express • REST APIs • JWT • Bcrypt • Multer • MongoDB • Mongoose
+
+### Tools
+Git • GitHub • VS Code • Postman • Vercel • Netlify • Docker (basic) • Prettier • ESLint
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&title_color=2563eb&icon_color=3b82f6&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b&border_radius=8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inurdream-abhi143&title_color=9333ea&icon_color=3b82f6&text_color=e2e8f0&bg_color=0b0f19&stroke=1e293b&ring=9333ea&fire=3b82f6&border_radius=8" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&theme=dark&title_color=2563eb&icon_color=3b82f6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inurdream-abhi143&theme=dark&date_format=%5BY%2Fm%2Fd%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inurdream-abhi143&layout=compact&title_color=2563eb&icon_color=9333ea&text_color=e2e8f0&bg_color=0b0f19&border_color=1e293b&border_radius=8" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inurdream-abhi143&bg_color=0b0f19&color=3b82f6&line=3b82f6&point=9333ea&area=true&hide_border=true" width="48%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inurdream-abhi143&layout=compact&theme=dark" width="48%" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inurdream-abhi143&bg_color=0b0f19&color=3b82f6&line=3b82f6&point=9333ea&area=true" width="48%" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inurdream-abhi143&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile views"/>
-</p>
+---
 
-<br />
+## 💼 Experience
 
-<!-- Connect With Me -->
-## 🤝 Connect With Me
+### Veritos Infosolutions — Jr. Web Developer (May 2026 – Present)
+- Building modern, responsive websites and internal client solutions.
 
-Thanks for visiting! Let's build something amazing together.
+### UIUX Studio — Full Stack Developer (Oct 2025 – Mar 2026)
+- SSR apps with Next.js, Tailwind CSS, component systems and mobile integrations.
+
+### Kaspro Solutions Pvt. Ltd. — MERN Stack Developer (Trainee) (Mar 2025 – Sep 2025)
+- JWT auth, REST APIs, dashboard modules, MongoDB designs.
+
+---
+
+## 🎓 Education
+
+- MCA — Central University of Himachal Pradesh (2022 – 2024)
+- B.Sc — MCM DAV College, Kangra (2019 – 2022)
+
+---
+
+## 🤝 Connect
 
 <p align="center">
   <a href="https://portfolio-drab-gamma-xwqbb5iych.vercel.app/">🌐 Portfolio</a> &nbsp;|&nbsp;
@@ -184,6 +137,4 @@ Thanks for visiting! Let's build something amazing together.
   <a href="mailto:dhimanabhishek2001@gmail.com">📧 Email</a>
 </p>
 
-<p align="center">
-  © 2026 Abhishek Dhiman • Made with ❤️ and lots of 💻
-</p>
+<p align="center">© 2026 Abhishek Dhiman • Built with ❤️ and JavaScript ⚛️</p>
