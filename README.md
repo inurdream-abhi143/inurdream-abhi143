@@ -100,7 +100,7 @@ I added three banner variants — pick the one you like by updating the README i
 
 - assets/animated-banner.svg (default)
 - assets/animated-banner-2.svg (colorful variant)
-- assets/animated-banner-minimal.svg (compact)</n
+- assets/animated-banner-minimal.svg (compact)
 To preview locally, open README.md in a Markdown viewer (or view on GitHub after pushing).
 
 ---
