@@ -219,12 +219,6 @@ const abhishek = {
 <!-- SVG Header 05 -->
 <img src="./assets/header_metrics.svg" width="270" alt="GitHub Metrics" />
 
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inurdream-abhi143&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inurdream-abhi143&layout=compact&theme=dark" alt="Top languages" />
-</p>
-
 <!-- Glowing Section Divider -->
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
